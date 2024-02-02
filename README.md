@@ -24,12 +24,12 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 /></a>
 </p>
 
-- 🔭 I’m currently working on [Instagram
-Clone](https://visionary-buttercream-f462cf.netlify.app/) - 🌱 I’m currently
-learning **Next, Redux Toolkit** - 👨‍💻 All of my projects are available at
-[Portfolio](https://3d-developer-portfolio-knighhtrider.vercel.app/) - 📫
-How to reach me **vivekthakur7042@gmail.com** - 📄 Know about my experiences
-[Resume](https://drive.google.com/file/d/1qyrky5GNNJPH1y1_91FS8SggAotOeftL/view?usp=sharing)
+- 🔭 I’m currently working on [InstagramClone](https://visionary-buttercream-f462cf.netlify.app/)
+- 🌱 I’m currently
+learning **Next, Redux Toolkit**
+- 👨‍💻 All of my projects are available at [Portfolio](https://3d-developer-portfolio-knighhtrider.vercel.app/) - 📫
+How to reach me **vivekthakur7042@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qyrky5GNNJPH1y1_91FS8SggAotOeftL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -269,16 +269,19 @@ How to reach me **vivekthakur7042@gmail.com** - 📄 Know about my experiences
 />
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/KnighhtRider">
-    <img
-      align="left"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="50"
-      width="210"
-      alt="KnighhtRider"
-    />
-  </a>
-</p>
-<br /><br />
+
+<div style="float: right">
+  <h3 align="left">Support:</h3>
+    <p>
+      <a href="https://www.buymeacoffee.com/KnighhtRider">
+        <img
+          align="left"
+          src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+          height="50"
+          width="210"
+          alt="KnighhtRider"
+          />
+        </a>
+      </p>
+      <br /><br />
+</div>
