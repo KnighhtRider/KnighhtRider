@@ -244,7 +244,7 @@ learning **Next, Redux Toolkit**
 </p>
 </div>
 
-<p>
+<p align="center">
 <img
   align="left"
   src="https://github-readme-stats.vercel.app/api/top-langs?username=knighhtrider&show_icons=true&locale=en&layout=compact"
