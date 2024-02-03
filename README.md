@@ -262,20 +262,20 @@
   </p>
 </div>
 
-<div>
-  <p align="right> 
-    <h3>Support:</h3>
-    <p>
-      <a href="https://www.buymeacoffee.com/KnighhtRider">
-        <img
-          src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-          height="50"
-          width="210"
-          alt="KnighhtRider"
-        />
-      </a>
-    </p>
-  </p>
+<p align="center"><strong>Code Cycle</strong><br></p>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!" style="max-width: 100%;"></a>
 
-  <br /><br />
+
+<div> 
+  <h3>Support:</h3>
+  <p>
+    <a href="https://www.buymeacoffee.com/KnighhtRider">
+      <img
+        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+        height="50"
+        width="210"
+        alt="KnighhtRider"
+      />
+    </a>
+  </p>
 </div>
