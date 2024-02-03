@@ -235,9 +235,10 @@
   </p>
 </div>
 
-<div style="text-align: center">
-  <p align="center">
-    <img
+<div align="center" style="padding-top: 50px;">
+  <p>
+    <img 
+      height="165"
       src="https://github-readme-stats.vercel.app/api?username=knighhtrider&show_icons=true&locale=en"
       alt="knighhtrider"
     />
@@ -246,15 +247,13 @@
       alt="knighhtrider"
     />
   </p>
-
   <p>
     <img
-      align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=knighhtrider&"
       alt="knighhtrider"
     />
   </p>
-
+  
   <p>
     <img
       src="https://komarev.com/ghpvc/?username=knighhtrider&label=Profile%20views&color=0e75b6&style=flat"
