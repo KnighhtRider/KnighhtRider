@@ -263,17 +263,19 @@
 </div>
 
 <div>
-  <h3 align="right">Support:</h3>
-  <p align="right">
-    <a href="https://www.buymeacoffee.com/KnighhtRider">
-      <img
-        align="left"
-        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-        height="50"
-        width="210"
-        alt="KnighhtRider"
-      />
-    </a>
+  <p align="right> 
+    <h3>Support:</h3>
+    <p>
+      <a href="https://www.buymeacoffee.com/KnighhtRider">
+        <img
+          src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+          height="50"
+          width="210"
+          alt="KnighhtRider"
+        />
+      </a>
+    </p>
   </p>
+
   <br /><br />
 </div>
