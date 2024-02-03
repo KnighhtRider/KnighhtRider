@@ -262,7 +262,7 @@
   </p>
 </div>
 
-<div style="float: right">
+<div>
   <h3 align="right">Support:</h3>
   <p align="right">
     <a href="https://www.buymeacoffee.com/KnighhtRider">
