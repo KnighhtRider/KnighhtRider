@@ -16,10 +16,15 @@
 </p>
 
 - 🔭 I’m currently working on [InstagramClone](https://visionary-buttercream-f462cf.netlify.app/)
+  <br>
 - 🌱 I’m currently learning **Next, Redux Toolkit**
+ <br>
 - 👨‍💻 All of my projects are available at [Portfolio](https://3d-developer-portfolio-knighhtrider.vercel.app/)
+ <br>
 - 📫 How to reach me **vivekthakur7042@gmail.com**
+ <br>
 - 📄 Know about my experiences[Resume](https://drive.google.com/file/d/1qyrky5GNNJPH1y1_91FS8SggAotOeftL/view?usp=sharing)
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -266,17 +271,18 @@
 
 <p align="center>
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png">
+  <a align="center" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!" style="max-width: 100%;">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!" style="max-width: 100%;">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-/p>
+</p>
 
 
 <div> 
