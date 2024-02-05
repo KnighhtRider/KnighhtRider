@@ -264,6 +264,12 @@
   </p>
 </div> <br>
 
+<p align="center">
+    <img src="https://github.com/KnighhtRider/KnighhtRider/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+
+
 <div> 
   <h3>Support:</h3>
   <p>
