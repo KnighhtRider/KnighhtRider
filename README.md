@@ -241,17 +241,17 @@
   <p>
     <img 
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=knighhtrider&show_icons=true&locale=en"
+      src="https://github-readme-stats.vercel.app/api?username=knighhtrider&show_icons=true&theme=tokyonight&locale=en"
       alt="knighhtrider"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=knighhtrider&show_icons=true&locale=en&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=knighhtrider&show_icons=true&theme=tokyonight&locale=en&layout=compact"
       alt="knighhtrider"
     />
   </p>
   <p>
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=knighhtrider&"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=knighhtrider&theme=tokyonight"
       alt="knighhtrider"
     />
   </p>
@@ -263,11 +263,6 @@
     />
   </p>
 </div> <br>
-
-<p align="center">
-    <img src="https://github.com/KnighhtRider/KnighhtRider/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 
 
 <div> 
