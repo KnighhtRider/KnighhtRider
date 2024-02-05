@@ -1,3 +1,5 @@
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://KnighhtRider.io)
+
 <h1 align="center">Hi 👋, I'm Vivek Thakur 👨🏼‍💻</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 <img
