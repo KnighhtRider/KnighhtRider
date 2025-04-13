@@ -9,6 +9,9 @@
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 />
 
+
+<br><br>
+
 <p align="left">
   <a href="https://twitter.com/vivekthaakur_" target="blank"
     ><img
@@ -22,6 +25,9 @@
 - 👨‍💻 All of my projects are available at [Portfolio](https://3d-developer-portfolio-knighhtrider.vercel.app/)
 - 📫 How to reach me **vivekthakur7042@gmail.com**
 - 📄 Know about my experiences[Resume](https://drive.google.com/file/d/1qyrky5GNNJPH1y1_91FS8SggAotOeftL/view?usp=sharing)
+
+
+<br><br><br>
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
@@ -42,29 +48,31 @@
   </a>
 </p>
 
+<br><br>
 
 <div style="text-align: center">
-  <h3 align="center">🛠️ Languages and Tools</h3>
+ <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/officel/48/react.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" />
-  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" />
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/officel/48/react.png" alt="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="Photoshop" />
 </p>
+
 
 </div> <br><br><br><br>
 
