@@ -23,218 +23,49 @@
 - 📫 How to reach me **vivekthakur7042@gmail.com**
 - 📄 Know about my experiences[Resume](https://drive.google.com/file/d/1qyrky5GNNJPH1y1_91FS8SggAotOeftL/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/vivekthaakur_" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="vivekthaakur_"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/vivekthakurr" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="vivekthakurr"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/vivekthaakur__" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="vivekthaakur__"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.leetcode.com/knighhtrider" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="knighhtrider"
-      height="30"
-      width="40"
-  /></a>
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
+  <a href="https://twitter.com/vivekthaakur_" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/vivekthakurr" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/vivekthaakur__" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/knighhtrider" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
+  </a>
 </p>
 
+
 <div style="text-align: center">
-  <h3 align="center">Languages and Tools:</h3>
-  <p align="center">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a
-      href="https://www.cprogramming.com/"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-        alt="c"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a
-      href="https://www.w3schools.com/cpp/"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-        alt="cplusplus"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a
-      href="https://www.w3schools.com/css/"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        alt="firebase"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        alt="java"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a
-      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-        alt="nextjs"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-        alt="photoshop"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-        alt="postman"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-        alt="redux"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-        alt="tailwind"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a
-      href="https://www.typescriptlang.org/"
-      target="_blank"
-      rel="noreferrer"
-    >
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript"
-        width="40"
-        height="40"
-      />
-    </a>&nbsp;&nbsp;&nbsp;
-  </p>
+  <h3 align="center">🛠️ Languages and Tools</h3>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/officel/48/react.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" />
+  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" />
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
+  <img src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="Photoshop" />
+</p>
+
 </div> <br><br><br><br>
 
 <div align="center" style="padding-top: 50px;">
